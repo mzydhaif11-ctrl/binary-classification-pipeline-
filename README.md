@@ -10,11 +10,6 @@
 [![Install](https://img.shields.io/badge/pip%20install-bcpipeline-%23FFD700?style=for-the-badge&logo=pypi&logoColor=black)](#installation)
 
 </div>
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-latest-orange?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-0.1.0-gold?style=for-the-badge)
-
 <br>
 
 [![Install](https://img.shields.io/badge/pip%20install-bcpipeline-%23FFD700?style=for-the-badge&logo=pypi&logoColor=black)](#installation)
