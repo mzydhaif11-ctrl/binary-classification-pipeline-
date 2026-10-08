@@ -5,15 +5,14 @@
 
 ### End-to-end ML pipeline with feature engineering & ensemble methods
 
-<div align="center">
+[![PyPI](https://img.shields.io/pypi/v/bcpipeline?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/bcpipeline/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](#license)
+[![Stars](https://img.shields.io/github/stars/mzydhaif11-ctrl/binary-classification-pipeline-?style=for-the-badge&label=⭐%20Star&color=%23FF69B4)](https://github.com/mzydhaif11-ctrl/binary-classification-pipeline-)
 
-[![Install](https://img.shields.io/badge/pip%20install-bcpipeline-%23FFD700?style=for-the-badge&logo=pypi&logoColor=black)](#installation)
-
-</div>
 <br>
 
-[![Install](https://img.shields.io/badge/pip%20install-bcpipeline-%23FFD700?style=for-the-badge&logo=pypi&logoColor=black)](#installation)
-[![Stars](https://img.shields.io/github/stars/mazyad-alrashidi/binary-classification-pipeline?style=for-the-badge&label=⭐%20Star&color=%23FF69B4)](https://github.com/mazyad-alrashidi/binary-classification-pipeline)
+<a href="#installation"><img src="https://img.shields.io/badge/pip%20install-bcpipeline-%23FFD700?style=for-the-badge&logo=pypi&logoColor=black" alt="Install"/></a>
 
 </div>
 
@@ -32,7 +31,7 @@
 <div align="center">
 
 ```bash
-pip install git+https://github.com/mazyad-alrashidi/binary-classification-pipeline.git
+pip install bcpipeline
 ```
 
 </div>
@@ -118,11 +117,15 @@ pip install git+https://github.com/mazyad-alrashidi/binary-classification-pipeli
 
 ---
 
-<div align="center">
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-### Made with ❤️ by [Mazyad Alrashidi](https://github.com/mazyad-alrashidi)
+<div align="center">
+
+### Made with ❤️ by [Mazyad Alrashidi](https://github.com/mzydhaif11-ctrl)
 
 🇸🇦 Riyadh, Saudi Arabia
 
